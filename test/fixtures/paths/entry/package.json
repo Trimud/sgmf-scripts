@@ -1,0 +1,7 @@
+{
+  "packageName": "entry",
+  "paths": {
+    "base": "../base/cartridges/base",
+    "cartridgeA": "../cartridgeA/cartridges/cartridgeA/"
+  }
+}

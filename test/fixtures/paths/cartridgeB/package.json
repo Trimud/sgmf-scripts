@@ -1,0 +1,6 @@
+{
+  "packageName": "cartridgeB",
+  "paths": {
+    "cartridgeC": "../cartridgeC/cartridges/cartridgeC/"
+  }
+}

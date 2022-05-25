@@ -1,0 +1,7 @@
+{
+  "packageName": "cartridgeA",
+  "paths": {
+    "cartridgeB": "../cartridgeB/cartridges/cartridgeB/",
+    "base": "../base/cartridges/base/"
+  }
+}
